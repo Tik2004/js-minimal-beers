@@ -1,0 +1,18 @@
+#main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: 'Open Sans';
+    text-align: center;
+}
+
+#main div {
+    max-width: 400px;
+    margin: 30px;
+    padding: 20px;
+}
+
+.beer-image {
+    margin: 35px;
+    padding: 35px;
+}
